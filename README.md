@@ -1,0 +1,1 @@
+This project was initialised with the help of https://www.sitepen.com/blog/getting-started-with-electron-typescript-react-and-webpack/
